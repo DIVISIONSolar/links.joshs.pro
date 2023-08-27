@@ -23,7 +23,7 @@ body {
   border-radius: 10px;
   text-align: center;
   width: 200px;
-  font-size: 16px;
+  font-size: 20px;
   font-family: 'Abril-Fatface', sans-serif;
   position: relative;
 }
@@ -70,4 +70,19 @@ a {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 12px;
+  color: #999;
+  font-size: 16px;
+  font-family: 'Abril-Fatface', sans-serif;
+}
+
+footer a {
+  color: #F43F5E;
+  text-decoration: none;
 }
