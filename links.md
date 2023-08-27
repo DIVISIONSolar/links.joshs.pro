@@ -1,2 +1,3 @@
 - Portfolio | https://joshsevero.dev
 - Linkedin | https://joshsevero.dev/linkedin
+- Revela Network | https://revela.network
