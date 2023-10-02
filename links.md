@@ -1,3 +1,4 @@
 - Portfolio | https://joshsevero.dev
 - Linkedin | https://joshsevero.dev/linkedin
 - System Status | https://status.joshsevero.dev
+- Revela Network | https://revela.network
